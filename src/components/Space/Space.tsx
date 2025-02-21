@@ -15,3 +15,7 @@ const Space: FC<Props> = ({ spaceId }) => {
 };
 
 export default Space;
+
+// '@components': path.resolve(__dirname, 'src/components'),
+// '@globals': path.resolve(__dirname, 'src/globals'),
+// '@ui': path.resolve(__dirname, 'src/ui'),

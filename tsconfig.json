@@ -17,8 +17,11 @@
     "jsx": "react-jsx",
     "baseUrl": "./src",
     "paths": {
+      "@components/": ["components/"],
       "@components/*": ["components/*"],
+      "@globals/": ["globals/"],
       "@globals/*": ["globals/*"],
+      "@ui/": ["ui/"],
       "@ui/*": ["ui/*"]
     }
   },
