@@ -19,3 +19,33 @@ export default Space;
 // '@components': path.resolve(__dirname, 'src/components'),
 // '@globals': path.resolve(__dirname, 'src/globals'),
 // '@ui': path.resolve(__dirname, 'src/ui'),
+
+// {
+//   "compilerOptions": {
+//     "target": "es5",
+//     "lib": ["dom", "dom.iterable", "esnext"],
+//     "allowJs": true,
+//     "skipLibCheck": true,
+//     "esModuleInterop": true,
+//     "allowSyntheticDefaultImports": true,
+//     "strict": true,
+//     "forceConsistentCasingInFileNames": true,
+//     "noFallthroughCasesInSwitch": true,
+//     "module": "esnext",
+//     "moduleResolution": "node",
+//     "resolveJsonModule": true,
+//     "isolatedModules": true,
+//     "noEmit": true,
+//     "jsx": "react-jsx",
+//     "baseUrl": "./src",
+//     "paths": {
+//       "@components/": ["components/"],
+//       "@components/*": ["components/*"],
+//       "@globals/": ["globals/"],
+//       "@globals/*": ["globals/*"],
+//       "@ui/": ["ui/"],
+//       "@ui/*": ["ui/*"]
+//     }
+//   },
+//   "include": ["src"]
+// }
