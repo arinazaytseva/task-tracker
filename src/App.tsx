@@ -1,6 +1,6 @@
-import styles from './App.module.css';
-
 import { Space } from '@components/Space';
+
+import styles from './App.module.css';
 
 const MOCK_SPACE_ID = 'mock space id';
 
