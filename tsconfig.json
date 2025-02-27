@@ -19,7 +19,8 @@
     "paths": {
       "@components/*": ["components/*"],
       "@globals/*": ["globals/*"],
-      "@ui/*": ["ui/*"]
+      "@ui/*": ["ui/*"],
+      "@redux/*": ["redux/*"]
     }
   },
   "include": ["src", "config"]

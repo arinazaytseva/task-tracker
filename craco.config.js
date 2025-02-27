@@ -9,6 +9,7 @@ module.exports = {
         '@components': path.resolve(__dirname, 'src/components'),
         '@globals': path.resolve(__dirname, 'src/globals'),
         '@ui': path.resolve(__dirname, 'src/ui'),
+        '@redux': path.resolve(__dirname, 'src/redux'),
       };
       return webpackConfig;
     },
