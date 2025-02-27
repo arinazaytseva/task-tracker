@@ -1,0 +1,13 @@
+.propertyWithLabel {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5px;
+  font-size: 14px;
+  width: 100%;
+  height: fit-content;
+}
+
+.propertyWithLabel__lable {
+  font-weight: 600;
+}

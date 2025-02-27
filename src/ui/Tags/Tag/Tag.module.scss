@@ -1,0 +1,27 @@
+.tag {
+  width: fit-content;
+  height: 20px;
+  font-size: 10px;
+  border-radius: 20px;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  padding-inline: 10px;
+  color: white;
+  font-weight: 600;
+  cursor: default;
+}
+
+.deleteButton {
+  width: fit-content;
+  height: 20px;
+  font-size: 10px;
+  border-radius: 20px;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  padding-inline: 10px;
+  color: white;
+  font-weight: 600;
+  cursor: default;
+}

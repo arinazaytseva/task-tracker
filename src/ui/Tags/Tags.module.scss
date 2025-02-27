@@ -1,0 +1,17 @@
+.tags {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.tags__addButton {
+  font-weight: 600;
+  cursor: pointer;
+  height: 20px;
+  // background-color: '#808080';
+  box-sizing: border-box;
+  font-size: 14px;
+  color: black;
+}

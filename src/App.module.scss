@@ -6,6 +6,12 @@
 .app__header {
   width: 100%;
   height: 40px;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  padding-inline: 10px;
+  box-sizing: border-box;
+  background-color: violet;
 }
 
 .app__body {
